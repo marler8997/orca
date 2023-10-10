@@ -43,3 +43,6 @@ src/ext/angle
 sketches/*/bin
 
 .cache
+
+zig-cache/
+zig-out/
